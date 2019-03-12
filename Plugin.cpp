@@ -20,7 +20,6 @@
 
 #include <string>
 
-#include "config.h"
 #include "VapourSynth.h"
 #include "FFT3DFilter.h"
 
